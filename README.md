@@ -182,6 +182,8 @@ Will automatically set the `Manage VRAM` & `Keep original images` checkboxes and
 
 ---
 
+---
+
 ## License
 
 This project is licensed under the **Waefrebeorn Umbrella License v3.0**.
